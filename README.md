@@ -1,5 +1,5 @@
 # zenless_auto_ahk
-AHK实现绝区零自动支援和闪避
+AHK实现绝区零（Zenless Zone Zero）自动支援和闪避
 # 使用方式
 第一步：安装AHK 1.1.37，详情自行搜索
 
