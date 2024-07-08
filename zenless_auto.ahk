@@ -20,7 +20,7 @@ if !Toggle{
 While, Toggle
 {
  if WinActive("ahk_exe ZenlessZoneZero.exe"){
-  ImageSearch, x, y, 0, 0, 1188, 668,*40 yellow_light.png
+  ImageSearch, x, y, 0, 0, 1188, 668,*50 yellow_light.png
   If (ErrorLevel = 0){
    sleep, 40
    send {space down}
@@ -29,7 +29,7 @@ While, Toggle
    sleep, 100
   }
 
-  ImageSearch, x, y, 0, 0, 1188, 668,*40 red_light.png
+  ImageSearch, x, y, 0, 0, 1188, 668,*50 red_light.png
   If (ErrorLevel = 0){
    sleep, 40
    send {RButton down}
