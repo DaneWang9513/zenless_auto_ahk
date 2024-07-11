@@ -16,5 +16,5 @@ AHK实现绝区零（Zenless Zone Zero）自动支援和闪避
 
 （注：此种做法会修改游戏文件，在官方服务器会有被封号的高风险，不赞成在官方服务器上使用。若坚持在官服上使用，我对由此产生的任何后果不承担责任。）
 
-感谢DarkStarSword，bo3b，和 Chiri 的 3dmigoto 和 SilentNightSound 的 GIMI
+感谢DarkStarSword，bo3b，Chiri 的 3dmigoto 和 SilentNightSound 的 GIMI
 
